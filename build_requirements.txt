@@ -3,3 +3,4 @@ pandas
 numpy
 matplotlib
 youtube_transcript_api
+pyarrow
